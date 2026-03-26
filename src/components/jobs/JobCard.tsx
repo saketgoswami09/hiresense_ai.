@@ -1,3 +1,5 @@
+import { Job } from "@/src/types";
+
 interface JobCardProps {
   job: Job;
 }
